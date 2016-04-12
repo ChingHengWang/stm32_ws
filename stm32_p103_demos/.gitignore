@@ -1,0 +1,10 @@
+# Compiled source #
+###################
+*.o
+*.bin
+*.elf
+*.list
+
+# Eclipse
+.project
+.cproject

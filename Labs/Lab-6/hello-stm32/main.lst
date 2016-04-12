@@ -1,0 +1,54 @@
+
+main.elf:     file format elf32-littlearm
+
+
+Disassembly of section .text:
+
+00000000 <myvectors>:
+   0:	00 08 00 20 11 00 00 00 25 00 00 00 2d 00 00 00     ... ....%...-...
+
+00000010 <main>:
+	(unsigned int *) hardfault_handler  // hard fault handler 
+};
+
+
+int main(void)
+{
+  10:	b480      	push	{r7}
+  12:	b083      	sub	sp, #12
+  14:	af00      	add	r7, sp, #0
+	int i=0;
+  16:	2300      	movs	r3, #0
+  18:	607b      	str	r3, [r7, #4]
+
+	for(;;)
+	{
+    	i++;
+  1a:	687b      	ldr	r3, [r7, #4]
+  1c:	3301      	adds	r3, #1
+  1e:	607b      	str	r3, [r7, #4]
+	}
+  20:	e7fb      	b.n	1a <main+0xa>
+  22:	bf00      	nop
+
+00000024 <nmi_handler>:
+}
+
+void nmi_handler(void)
+{
+  24:	b480      	push	{r7}
+  26:	af00      	add	r7, sp, #0
+	for(;;);
+  28:	e7fe      	b.n	28 <nmi_handler+0x4>
+  2a:	bf00      	nop
+
+0000002c <hardfault_handler>:
+}
+
+void hardfault_handler(void)
+{
+  2c:	b480      	push	{r7}
+  2e:	af00      	add	r7, sp, #0
+	for(;;);
+  30:	e7fe      	b.n	30 <hardfault_handler+0x4>
+  32:	bf00      	nop

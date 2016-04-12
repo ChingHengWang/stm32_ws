@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<EmBlocks_debug_session>
+	<debuggerLastSession>
+		<breakpoints>
+			<break type="0" file="../src/main.c" line="60" />
+		</breakpoints>
+	</debuggerLastSession>
+</EmBlocks_debug_session>

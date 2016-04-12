@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<EmBlocks_debug_session>
+	<debuggerLastSession>
+		<watches>
+			<watch key="cnt" format="0" array="0" start="0" count="0" />
+			<watch key="cnt" format="3" array="0" start="0" count="0" />
+			<watch key="heapPtr" format="0" array="0" start="0" count="0" />
+			<watch key="tmpAr" format="0" array="0" start="0" count="20" />
+			<watch key="MAS_base_system_parameters" format="0" array="0" start="0" count="0" />
+			<watch key="MAS_datetime" format="1" array="0" start="0" count="0" />
+			<watch key="SBK_ram_usage" format="1" array="0" start="0" count="0" />
+			<watch key="STO_shadow_base_param" format="0" array="0" start="0" count="0" />
+			<watch key="STO_temp_block" format="3" array="1" start="0" count="16" />
+			<watch key="shadow_ptr" format="0" array="0" start="0" count="0" />
+			<watch key="heapistList" format="0" array="0" start="0" count="0" />
+		</watches>
+	</debuggerLastSession>
+</EmBlocks_debug_session>

@@ -1,0 +1,2165 @@
+# depslib dependency file v1.0
+1379483958 source:d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\src\misc.c
+	"misc.h"
+
+1379483960 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\inc\misc.h
+	"stm32f4xx.h"
+
+1379483954 d:\stm32f429i-discovery_fw_v1.0.0\libraries\cmsis\device\st\stm32f4xx\include\stm32f4xx.h
+	"core_cm4.h"
+	"system_stm32f4xx.h"
+	<stdint.h>
+	"stm32f4xx_conf.h"
+
+1379483954 d:\stm32f429i-discovery_fw_v1.0.0\libraries\cmsis\device\st\stm32f4xx\include\system_stm32f4xx.h
+
+1379577886 d:\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\devices\stm32f4xx\stm32f4xx_conf.h
+	"stm32f4xx_adc.h"
+	"stm32f4xx_can.h"
+	"stm32f4xx_crc.h"
+	"stm32f4xx_cryp.h"
+	"stm32f4xx_dac.h"
+	"stm32f4xx_dbgmcu.h"
+	"stm32f4xx_dcmi.h"
+	"stm32f4xx_dma.h"
+	"stm32f4xx_dma2d.h"
+	"stm32f4xx_exti.h"
+	"stm32f4xx_flash.h"
+	"stm32f4xx_fmc.h"
+	"stm32f4xx_fsmc.h"
+	"stm32f4xx_hash.h"
+	"stm32f4xx_gpio.h"
+	"stm32f4xx_i2c.h"
+	"stm32f4xx_iwdg.h"
+	"stm32f4xx_ltdc.h"
+	"stm32f4xx_pwr.h"
+	"stm32f4xx_rcc.h"
+	"stm32f4xx_rng.h"
+	"stm32f4xx_rtc.h"
+	"stm32f4xx_sai.h"
+	"stm32f4xx_sdio.h"
+	"stm32f4xx_spi.h"
+	"stm32f4xx_syscfg.h"
+	"stm32f4xx_tim.h"
+	"stm32f4xx_usart.h"
+	"stm32f4xx_wwdg.h"
+	"misc.h"
+
+1379483960 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\inc\stm32f4xx_adc.h
+	"stm32f4xx.h"
+
+1379483960 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\inc\stm32f4xx_can.h
+	"stm32f4xx.h"
+
+1379483960 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\inc\stm32f4xx_crc.h
+	"stm32f4xx.h"
+
+1379483960 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\inc\stm32f4xx_cryp.h
+	"stm32f4xx.h"
+
+1379483960 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\inc\stm32f4xx_dac.h
+	"stm32f4xx.h"
+
+1379483960 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\inc\stm32f4xx_dbgmcu.h
+	"stm32f4xx.h"
+
+1379483960 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\inc\stm32f4xx_dcmi.h
+	"stm32f4xx.h"
+
+1379483960 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\inc\stm32f4xx_dma.h
+	"stm32f4xx.h"
+
+1379483960 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\inc\stm32f4xx_dma2d.h
+	"stm32f4xx.h"
+
+1379483960 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\inc\stm32f4xx_exti.h
+	"stm32f4xx.h"
+
+1379483960 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\inc\stm32f4xx_flash.h
+	"stm32f4xx.h"
+
+1379483960 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\inc\stm32f4xx_fmc.h
+	"stm32f4xx.h"
+
+1379483960 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\inc\stm32f4xx_fsmc.h
+	"stm32f4xx.h"
+
+1379483960 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\inc\stm32f4xx_hash.h
+	"stm32f4xx.h"
+
+1379483960 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\inc\stm32f4xx_gpio.h
+	"stm32f4xx.h"
+
+1379483960 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\inc\stm32f4xx_i2c.h
+	"stm32f4xx.h"
+
+1379483960 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\inc\stm32f4xx_iwdg.h
+	"stm32f4xx.h"
+
+1379483960 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\inc\stm32f4xx_ltdc.h
+	"stm32f4xx.h"
+
+1379483960 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\inc\stm32f4xx_pwr.h
+	"stm32f4xx.h"
+
+1379483960 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\inc\stm32f4xx_rcc.h
+	"stm32f4xx.h"
+
+1379483960 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\inc\stm32f4xx_rng.h
+	"stm32f4xx.h"
+
+1379483960 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\inc\stm32f4xx_rtc.h
+	"stm32f4xx.h"
+
+1379483960 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\inc\stm32f4xx_sai.h
+	"stm32f4xx.h"
+
+1379483960 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\inc\stm32f4xx_sdio.h
+	"stm32f4xx.h"
+
+1379483960 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\inc\stm32f4xx_spi.h
+	"stm32f4xx.h"
+
+1379483960 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\inc\stm32f4xx_syscfg.h
+	"stm32f4xx.h"
+
+1379483960 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\inc\stm32f4xx_tim.h
+	"stm32f4xx.h"
+
+1379483960 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\inc\stm32f4xx_usart.h
+	"stm32f4xx.h"
+
+1379483960 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\inc\stm32f4xx_wwdg.h
+	"stm32f4xx.h"
+
+1379483958 source:d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\src\stm32f4xx_adc.c
+	"stm32f4xx_adc.h"
+	"stm32f4xx_rcc.h"
+
+1379483958 source:d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\src\stm32f4xx_dcmi.c
+	"stm32f4xx_dcmi.h"
+	"stm32f4xx_rcc.h"
+
+1379483958 source:d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\src\stm32f4xx_dma.c
+	"stm32f4xx_dma.h"
+	"stm32f4xx_rcc.h"
+
+1379483958 source:d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\src\stm32f4xx_dma2d.c
+	"stm32f4xx_dma2d.h"
+	"stm32f4xx_rcc.h"
+
+1379483958 source:d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\src\stm32f4xx_exti.c
+	"stm32f4xx_exti.h"
+
+1379483958 source:d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\src\stm32f4xx_flash.c
+	"stm32f4xx_flash.h"
+
+1379483958 source:d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\src\stm32f4xx_fmc.c
+	"stm32f4xx_fmc.h"
+	"stm32f4xx_rcc.h"
+
+1379483958 source:d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\src\stm32f4xx_gpio.c
+	"stm32f4xx_gpio.h"
+	"stm32f4xx_rcc.h"
+
+1379483958 source:d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\src\stm32f4xx_i2c.c
+	"stm32f4xx_i2c.h"
+	"stm32f4xx_rcc.h"
+
+1379483958 source:d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\src\stm32f4xx_ltdc.c
+	"stm32f4xx_ltdc.h"
+	"stm32f4xx_rcc.h"
+
+1379483958 source:d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\src\stm32f4xx_pwr.c
+	"stm32f4xx_pwr.h"
+	"stm32f4xx_rcc.h"
+
+1379483958 source:d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\src\stm32f4xx_rcc.c
+	"stm32f4xx_rcc.h"
+
+1379483958 source:d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\src\stm32f4xx_rng.c
+	"stm32f4xx_rng.h"
+	"stm32f4xx_rcc.h"
+
+1379483958 source:d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\src\stm32f4xx_rtc.c
+	"stm32f4xx_rtc.h"
+
+1379483958 source:d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\src\stm32f4xx_sdio.c
+	"stm32f4xx_sdio.h"
+	"stm32f4xx_rcc.h"
+
+1379483958 source:d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\src\stm32f4xx_spi.c
+	"stm32f4xx_spi.h"
+	"stm32f4xx_rcc.h"
+
+1379483958 source:d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\src\stm32f4xx_syscfg.c
+	"stm32f4xx_syscfg.h"
+	"stm32f4xx_rcc.h"
+
+1379483958 source:d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\src\stm32f4xx_tim.c
+	"stm32f4xx_tim.h"
+	"stm32f4xx_rcc.h"
+
+1379483958 source:d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\src\stm32f4xx_usart.c
+	"stm32f4xx_usart.h"
+	"stm32f4xx_rcc.h"
+
+1377240662 source:d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32_usb_device_library\class\hid\src\usbd_hid_core.c
+	"usbd_hid_core.h"
+	"usbd_desc.h"
+	"usbd_req.h"
+
+1377240662 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32_usb_device_library\class\hid\inc\usbd_hid_core.h
+	"usbd_ioreq.h"
+
+1377240662 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32_usb_device_library\core\inc\usbd_ioreq.h
+	"usbd_def.h"
+	"usbd_core.h"
+
+1377240662 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32_usb_device_library\core\inc\usbd_def.h
+	"usbd_conf.h"
+
+1379577884 d:\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\config\usbd_conf.h
+	"global_includes.h"
+
+1379581952 d:\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\config\global_includes.h
+	"global_conf.h"
+	"FreeRTOS.h"
+	"task.h"
+	"semphr.h"
+	"stm32f429i_discovery.h"
+	"stm32f429i_discovery_lcd.h"
+	"stm32f429i_discovery_ioe.h"
+	"stm32f429i_discovery_sdram.h"
+	"stm32f429i_discovery_l3gd20.h"
+	"usbh_msc_core.h"
+	"usbh_msc_scsi.h"
+	"usbh_msc_bot.h"
+	"usbh_usr.h"
+	"ff.h"
+	"GUI.h"
+	"DIALOG.h"
+
+1379683198 d:\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\config\global_conf.h
+
+1377240386 d:\stm32f429i-discovery_fw_v1.0.0\utilities\third_party\freertos\source\include\freertos.h
+	<stddef.h>
+	"projdefs.h"
+	"FreeRTOSConfig.h"
+	"portable.h"
+
+1377240386 d:\stm32f429i-discovery_fw_v1.0.0\utilities\third_party\freertos\source\include\projdefs.h
+
+1379577690 d:\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\config\freertosconfig.h
+
+1377240386 d:\stm32f429i-discovery_fw_v1.0.0\utilities\third_party\freertos\source\include\portable.h
+	"..\..\Source\portable\owatcom\16bitdos\pc\portmacro.h"
+	"..\..\Source\portable\owatcom\16bitdos\flsh186\portmacro.h"
+	"../portable/GCC/ATMega323/portmacro.h"
+	"../portable/IAR/ATMega323/portmacro.h"
+	"..\..\Source\portable\MPLAB\PIC24_dsPIC\portmacro.h"
+	"..\..\Source\portable\MPLAB\PIC24_dsPIC\portmacro.h"
+	"..\..\Source\portable\MPLAB\PIC18F\portmacro.h"
+	"..\..\Source\portable\MPLAB\PIC32MX\portmacro.h"
+	"libFreeRTOS/Include/portmacro.h"
+	"../../Source/portable/SDCC/Cygnal/portmacro.h"
+	"../../Source/portable/GCC/ARM7_LPC2000/portmacro.h"
+	"portmacro.h"
+	"../../Source/portable/GCC/ARM7_LPC23xx/portmacro.h"
+	"..\..\Source\portable\IAR\MSP430\portmacro.h"
+	"../../Source/portable/GCC/MSP430F449/portmacro.h"
+	"../../Source/portable/Rowley/MSP430F449/portmacro.h"
+	"..\..\Source\portable\RVDS\ARM7_LPC21xx\portmacro.h"
+	"../../Source/portable/GCC/ARM7_AT91SAM7S/portmacro.h"
+	"..\..\Source\portable\IAR\AtmelSAM7S64\portmacro.h"
+	"..\..\Source\portable\IAR\AtmelSAM9XE\portmacro.h"
+	"..\..\Source\portable\IAR\LPC2000\portmacro.h"
+	"..\..\Source\portable\IAR\STR71x\portmacro.h"
+	"..\..\Source\portable\IAR\STR75x\portmacro.h"
+	"..\..\Source\portable\GCC\STR75x\portmacro.h"
+	"..\..\Source\portable\IAR\STR91x\portmacro.h"
+	"../../Source/portable/GCC/H8S2329/portmacro.h"
+	"../../Source/portable/GCC/ARM7_AT91FR40008/portmacro.h"
+	"../../Source/portable/RVDS/ARM_CM3/portmacro.h"
+	"../../Source/portable/GCC/ARM_CM3/portmacro.h"
+	"../../Source/portable/GCC/ARM_CM3/portmacro.h"
+	"../../Source/portable/IAR/ARM_CM3/portmacro.h"
+	"../../Source/portable/IAR/ARM_CM3/portmacro.h"
+	"../../Source/portable/CodeWarrior/HCS12/portmacro.h"
+	"../../Source/portable/GCC/MicroBlaze/portmacro.h"
+	"..\..\Source\portable\Paradigm\Tern_EE\small\portmacro.h"
+	"../../Source/portable/GCC/HCS12/portmacro.h"
+	"../../Source/portable/GCC/MCF5235/portmacro.h"
+	"../../../Source/portable/GCC/ColdFire_V2/portmacro.h"
+	"../../Source/portable/CodeWarrior/ColdFire_V2/portmacro.h"
+	"../../Source/portable/GCC/PPC405_Xilinx/portmacro.h"
+	"../../Source/portable/GCC/PPC440_Xilinx/portmacro.h"
+	"..\..\Source\portable\Softune\MB96340\portmacro.h"
+	"frconfig.h"
+	"..\portable\BCC\16BitDOS\PC\prtmacro.h"
+	"frconfig.h"
+	"..\portable\BCC\16BitDOS\flsh186\prtmacro.h"
+	"portmacro.h"
+	"portmacro.h"
+	"portmacro.h"
+	"portmacro.h"
+	"../../Source/portable/IAR/V850ES/portmacro.h"
+	"../../Source/portable/IAR/V850ES/portmacro.h"
+	"../../Source/portable/IAR/V850ES/portmacro.h"
+	"../../Source/portable/IAR/V850ES/portmacro.h"
+	"../../Source/portable/IAR/V850ES/portmacro.h"
+	"../../Source/portable/IAR/78K0R/portmacro.h"
+	"../../Source/portable/IAR/78K0R/portmacro.h"
+	"portmacro.h"
+	"mpu_wrappers.h"
+
+1377240388 d:\stm32f429i-discovery_fw_v1.0.0\utilities\third_party\freertos\source\portable\gcc\arm_cm4f\portmacro.h
+
+1377240388 d:\stm32f429i-discovery_fw_v1.0.0\utilities\third_party\freertos\source\portable\rvds\arm_cm3\portmacro.h
+
+1377240388 d:\stm32f429i-discovery_fw_v1.0.0\utilities\third_party\freertos\source\portable\gcc\arm_cm3\portmacro.h
+
+1377240388 d:\stm32f429i-discovery_fw_v1.0.0\utilities\third_party\freertos\source\portable\iar\arm_cm3\portmacro.h
+
+1377240386 d:\stm32f429i-discovery_fw_v1.0.0\utilities\third_party\freertos\source\include\mpu_wrappers.h
+
+1377240386 d:\stm32f429i-discovery_fw_v1.0.0\utilities\third_party\freertos\source\include\task.h
+	"portable.h"
+	"list.h"
+
+1377240386 d:\stm32f429i-discovery_fw_v1.0.0\utilities\third_party\freertos\source\include\list.h
+
+1377240386 d:\stm32f429i-discovery_fw_v1.0.0\utilities\third_party\freertos\source\include\semphr.h
+	"queue.h"
+
+1377240386 d:\stm32f429i-discovery_fw_v1.0.0\utilities\third_party\freertos\source\include\queue.h
+	"mpu_wrappers.h"
+
+1379578466 d:\stm32f429i-discovery_fw_v1.0.0\utilities\stm32f429i-discovery\stm32f429i_discovery.h
+	"stm32f4xx.h"
+
+1379578466 d:\stm32f429i-discovery_fw_v1.0.0\utilities\stm32f429i-discovery\stm32f429i_discovery_lcd.h
+	"stm32f4xx.h"
+	"stm32f429i_discovery.h"
+	"stm32f429i_discovery_sdram.h"
+	"../Common/fonts.h"
+	"main.h"
+
+1379578466 d:\stm32f429i-discovery_fw_v1.0.0\utilities\stm32f429i-discovery\stm32f429i_discovery_sdram.h
+	"stm32f4xx.h"
+
+1377240660 d:\stm32f429i-discovery_fw_v1.0.0\utilities\common\fonts.h
+	<stdint.h>
+
+1379578466 d:\stm32f429i-discovery_fw_v1.0.0\utilities\stm32f429i-discovery\stm32f429i_discovery_ioe.h
+	"stm32f429i_discovery.h"
+	"main.h"
+
+1379578466 d:\stm32f429i-discovery_fw_v1.0.0\utilities\stm32f429i-discovery\stm32f429i_discovery_l3gd20.h
+	"stm32f4xx.h"
+	"stm32f4xx_spi.h"
+	"stm32f4xx_rcc.h"
+
+1377240664 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32_usb_host_library\class\msc\inc\usbh_msc_core.h
+	"usbh_core.h"
+	"usbh_stdreq.h"
+	"usb_bsp.h"
+	"usbh_ioreq.h"
+	"usbh_hcs.h"
+	"usbh_msc_core.h"
+	"usbh_msc_scsi.h"
+	"usbh_msc_bot.h"
+
+1377240664 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32_usb_host_library\core\inc\usbh_core.h
+	"usb_hcd.h"
+	"usbh_def.h"
+	"usbh_conf.h"
+
+1377240664 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32_usb_otg_driver\inc\usb_hcd.h
+	"usb_regs.h"
+	"usb_core.h"
+
+1377240664 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32_usb_otg_driver\inc\usb_regs.h
+	"usb_conf.h"
+
+1379683198 d:\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\config\usb_conf.h
+	"stm32f4xx.h"
+	"stm32f429i_discovery.h"
+	"stm32f429i_discovery_lcd.h"
+	"stm32f429i_discovery_ioe.h"
+	"stm32f429i_discovery_sdram.h"
+
+1377240664 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32_usb_otg_driver\inc\usb_core.h
+	"usb_conf.h"
+	"usb_regs.h"
+	"usb_defines.h"
+
+1377240664 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32_usb_otg_driver\inc\usb_defines.h
+	"usb_conf.h"
+
+1377240664 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32_usb_host_library\core\inc\usbh_def.h
+
+1379577884 d:\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\config\usbh_conf.h
+
+1377240664 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32_usb_host_library\core\inc\usbh_stdreq.h
+	"usb_conf.h"
+	"usb_hcd.h"
+	"usbh_core.h"
+	"usbh_def.h"
+
+1377240664 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32_usb_otg_driver\inc\usb_bsp.h
+	"usb_core.h"
+	"usb_conf.h"
+
+1377240664 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32_usb_host_library\core\inc\usbh_ioreq.h
+	"usb_conf.h"
+	"usbh_core.h"
+	"usbh_def.h"
+
+1377240664 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32_usb_host_library\core\inc\usbh_hcs.h
+	"usbh_core.h"
+
+1377240664 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32_usb_host_library\class\msc\inc\usbh_msc_scsi.h
+	"usbh_stdreq.h"
+
+1377240664 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32_usb_host_library\class\msc\inc\usbh_msc_bot.h
+	"usbh_stdreq.h"
+
+1379683196 d:\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\user\usbh_usr.h
+	"global_includes.h"
+	<stdio.h>
+	"usbh_msc_core.h"
+
+1377240384 d:\stm32f429i-discovery_fw_v1.0.0\utilities\third_party\fat_fs\inc\ff.h
+	"integer.h"
+	"ffconf.h"
+
+1377240384 d:\stm32f429i-discovery_fw_v1.0.0\utilities\third_party\fat_fs\inc\integer.h
+	<windows.h>
+	<tchar.h>
+
+1379696116 d:\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\config\ffconf.h
+	"global_includes.h"
+
+1379697670 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\gui.h
+	"GUI_ConfDefaults.h"
+	"GUI_Type.h"
+	"GUI_Version.h"
+
+1379696348 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\gui_confdefaults.h
+	"GUIConf.h"
+
+1379696334 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\config\guiconf.h
+
+1379696348 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\gui_type.h
+	"LCD.h"
+	"GUIConf.h"
+
+1379696348 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\lcd.h
+	"GUI_ConfDefaults.h"
+	"Global.h"
+
+1379696346 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\global.h
+
+1379696348 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\gui_version.h
+
+1379696348 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\dialog.h
+	"WM.h"
+	"BUTTON.h"
+	"CALENDAR.h"
+	"CHECKBOX.h"
+	"CHOOSECOLOR.h"
+	"CHOOSEFILE.h"
+	"DROPDOWN.h"
+	"EDIT.h"
+	"FRAMEWIN.h"
+	"GRAPH.h"
+	"HEADER.h"
+	"ICONVIEW.h"
+	"IMAGE.h"
+	"LISTBOX.h"
+	"LISTVIEW.h"
+	"LISTWHEEL.h"
+	"MENU.h"
+	"MULTIEDIT.h"
+	"MULTIPAGE.h"
+	"PROGBAR.h"
+	"RADIO.h"
+	"SCROLLBAR.h"
+	"SLIDER.h"
+	"SPINBOX.h"
+	"TEXT.h"
+	"TREEVIEW.h"
+
+1379696348 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\wm.h
+	"GUI_ConfDefaults.h"
+	"GUI_Type.h"
+	"WM_GUI.h"
+	"GUI.h"
+
+1379696346 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\wm_gui.h
+
+1379696348 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\button.h
+	"WM.h"
+	"DIALOG_Intern.h"
+	"WIDGET.h"
+
+1379696346 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\dialog_intern.h
+	"WM.h"
+
+1379696348 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\widget.h
+	"WM_Intern.h"
+	"SCROLLBAR.h"
+
+1379696348 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\wm_intern.h
+	"WM.h"
+	"GUI_Private.h"
+
+1379696348 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\gui_private.h
+	"GUI.h"
+	"LCD_Protected.h"
+	"GUI_Debug.h"
+	"WM_GUI.h"
+
+1379696348 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\lcd_protected.h
+	"LCD.h"
+
+1379696348 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\gui_debug.h
+	<stddef.h>
+	"GUI.h"
+
+1379696346 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\scrollbar.h
+	"WM.h"
+	"DIALOG_Intern.h"
+	"WIDGET.h"
+
+1379696348 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\calendar.h
+	"WM.h"
+
+1379696346 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\checkbox.h
+	"WM.h"
+	"DIALOG_Intern.h"
+	"WIDGET.h"
+
+1379696348 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\choosecolor.h
+	"WM.h"
+
+1379696346 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\choosefile.h
+	"WM.h"
+
+1379696346 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\dropdown.h
+	"WM.h"
+	"DIALOG_Intern.h"
+	"LISTBOX.h"
+
+1379696348 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\listbox.h
+	"WM.h"
+	"WIDGET.h"
+	"DIALOG_Intern.h"
+
+1379696348 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\edit.h
+	"WM.h"
+	"DIALOG_Intern.h"
+
+1379696346 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\framewin.h
+	"WM.h"
+	"WIDGET.h"
+	"DIALOG_Intern.h"
+
+1379696348 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\graph.h
+	"WM.h"
+	"DIALOG_Intern.h"
+	"WIDGET.h"
+
+1379696348 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\header.h
+	"WM.h"
+	"DIALOG_Intern.h"
+	"WIDGET.h"
+
+1379696348 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\iconview.h
+	"WM.h"
+	"DIALOG_Intern.h"
+	"WIDGET.h"
+
+1379696348 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\image.h
+	"WM.h"
+	"DIALOG_Intern.h"
+	"WIDGET.h"
+
+1379696348 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\listview.h
+	"WM.h"
+	"DIALOG_Intern.h"
+	"ICONVIEW.h"
+	"HEADER.h"
+
+1379696348 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\listwheel.h
+	"WM.h"
+	"WIDGET.h"
+	"DIALOG_Intern.h"
+
+1379696346 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\menu.h
+	"WM.h"
+	"WIDGET.h"
+	"DIALOG_Intern.h"
+
+1379696346 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\multiedit.h
+	"WM.h"
+	"DIALOG_Intern.h"
+
+1379696350 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\multipage.h
+	"WM.h"
+	"DIALOG.h"
+
+1379696346 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\progbar.h
+	"WM.h"
+	"DIALOG_Intern.h"
+	"WIDGET.h"
+
+1379696346 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\radio.h
+	"WM.h"
+	"DIALOG_Intern.h"
+	"WIDGET.h"
+
+1379696346 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\slider.h
+	"WM.h"
+	"DIALOG_Intern.h"
+	"WIDGET.h"
+
+1379696346 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\spinbox.h
+	"WM.h"
+	"DIALOG_Intern.h"
+	"WIDGET.h"
+	"GUI_Debug.h"
+	"EDIT.h"
+
+1379696346 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\text.h
+	"WM.h"
+	"DIALOG_Intern.h"
+	"WIDGET.h"
+	"GUI_Debug.h"
+
+1379696348 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\treeview.h
+	"WM.h"
+	"DIALOG_Intern.h"
+	"WIDGET.h"
+
+1377240662 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32_usb_device_library\core\inc\usbd_core.h
+	"usb_dcd.h"
+	"usbd_def.h"
+	"usbd_conf.h"
+
+1377240664 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32_usb_otg_driver\inc\usb_dcd.h
+	"usb_core.h"
+
+1379577886 d:\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\user\usbd_desc.h
+	"usbd_def.h"
+
+1377240662 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32_usb_device_library\core\inc\usbd_req.h
+	"usbd_def.h"
+	"usbd_core.h"
+	"usbd_conf.h"
+
+1377240662 source:d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32_usb_device_library\core\src\usbd_core.c
+	"usbd_core.h"
+	"usbd_req.h"
+	"usbd_ioreq.h"
+	"usb_dcd_int.h"
+	"usb_bsp.h"
+
+1377240664 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32_usb_otg_driver\inc\usb_dcd_int.h
+	"usb_dcd.h"
+
+1377240662 source:d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32_usb_device_library\core\src\usbd_ioreq.c
+	"usbd_ioreq.h"
+
+1382032522 source:d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32_usb_device_library\core\src\usbd_req.c
+	"usbd_req.h"
+	"usbd_ioreq.h"
+	"usbd_desc.h"
+
+1377240664 source:d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32_usb_host_library\class\msc\src\usbh_msc_bot.c
+	"usbh_msc_core.h"
+	"usbh_msc_scsi.h"
+	"usbh_msc_bot.h"
+	"usbh_ioreq.h"
+	"usbh_def.h"
+	"usb_hcd_int.h"
+
+1377240664 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32_usb_otg_driver\inc\usb_hcd_int.h
+	"usb_hcd.h"
+
+1377240664 source:d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32_usb_host_library\class\msc\src\usbh_msc_core.c
+	"usbh_msc_core.h"
+	"usbh_msc_scsi.h"
+	"usbh_msc_bot.h"
+	"usbh_core.h"
+
+1377240664 source:d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32_usb_host_library\class\msc\src\usbh_msc_scsi.c
+	"usbh_msc_core.h"
+	"usbh_msc_scsi.h"
+	"usbh_msc_bot.h"
+	"usbh_ioreq.h"
+	"usbh_def.h"
+
+1377240664 source:d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32_usb_host_library\core\src\usbh_core.c
+	"usbh_ioreq.h"
+	"usb_bsp.h"
+	"usbh_hcs.h"
+	"usbh_stdreq.h"
+	"usbh_core.h"
+	"usb_hcd_int.h"
+
+1377240664 source:d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32_usb_host_library\core\src\usbh_hcs.c
+	"usbh_hcs.h"
+
+1377240664 source:d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32_usb_host_library\core\src\usbh_ioreq.c
+	"usbh_ioreq.h"
+
+1377240664 source:d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32_usb_host_library\core\src\usbh_stdreq.c
+	"usbh_ioreq.h"
+	"usbh_stdreq.h"
+
+1377240664 source:d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32_usb_otg_driver\src\usb_core.c
+	"usb_core.h"
+	"usb_bsp.h"
+
+1377240664 source:d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32_usb_otg_driver\src\usb_dcd.c
+	"usb_dcd.h"
+	"usb_bsp.h"
+
+1377240664 source:d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32_usb_otg_driver\src\usb_dcd_int.c
+	"usb_dcd_int.h"
+
+1377240664 source:d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32_usb_otg_driver\src\usb_hcd.c
+	"usb_core.h"
+	"usb_hcd.h"
+	"usb_conf.h"
+	"usb_bsp.h"
+
+1377240664 source:d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32_usb_otg_driver\src\usb_hcd_int.c
+	"usb_core.h"
+	"usb_defines.h"
+	"usb_hcd_int.h"
+
+1382527318 source:d:\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\config\guiconf.c
+	"GUI.h"
+
+1379696334 source:d:\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\config\guidrv_stm32f429i_discovery.c
+	"GUI.h"
+	"GUI_Private.h"
+	"GUIDRV_Lin.h"
+	"global_includes.h"
+
+1379696346 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\guidrv_lin.h
+
+1381555899 source:d:\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\os\gui_x_freertos.c
+	"GUI.h"
+	"FreeRTOS.h"
+	"task.h"
+	"timers.h"
+	"semphr.h"
+
+1377240386 d:\stm32f429i-discovery_fw_v1.0.0\utilities\third_party\freertos\source\include\timers.h
+	"portable.h"
+	"list.h"
+	"task.h"
+
+1379577886 source:d:\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\demo\res\common_res.c
+	"stdlib.h"
+	"common_res.h"
+	"GUI.h"
+
+1379577886 d:\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\demo\res\common_res.h
+	"global_includes.h"
+
+1379691416 source:d:\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\demo\demo_clock.c
+	"global_includes.h"
+	"DIALOG.h"
+	"time_utils.h"
+	"calendar.h"
+	"Res\clock_res.c"
+	"Res\alarmclock.c"
+
+1379683194 d:\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\lib\time_utils.h
+	"global_includes.h"
+
+1379577886 d:\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\demo\res\clock_res.c
+	<stdlib.h>
+	"GUI.h"
+
+1379598304 d:\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\demo\res\alarmclock.c
+	<stdlib.h>
+	"GUI.h"
+
+1379695600 source:d:\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\demo\demo_cpu.c
+	<stdlib.h>
+	"global_includes.h"
+	"DIALOG.h"
+	"cpu_utils.h"
+
+1379683196 d:\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\lib\cpu_utils.h
+	"global_includes.h"
+
+1379691416 source:d:\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\demo\demo_game.c
+	<string.h>
+	<stdio.h>
+	"GUI.h"
+	"DIALOG.h"
+	"MENU.h"
+
+1379695600 source:d:\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\demo\demo_image.c
+	"global_includes.h"
+	"DIALOG.h"
+	"file_utils.h"
+	"str_utils.h"
+	"Res\common_res.h"
+	"string.h"
+
+1379577886 d:\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\lib\file_utils.h
+	"global_includes.h"
+
+1379683196 d:\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\lib\str_utils.h
+	"global_includes.h"
+
+1379691416 source:d:\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\demo\demo_menu.c
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"WM.h"
+	"Res\menu_res.c"
+	"Res\clock.c"
+	"Res\cpu.c"
+	"Res\game.c"
+	"Res\image.c"
+	"Res\info.c"
+	"Res\multimedia.c"
+	"Res\background.c"
+	"time_utils.h"
+	"cpu_utils.h"
+
+1379577886 d:\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\demo\res\menu_res.c
+	<stdlib.h>
+	"GUI.h"
+
+1378724692 d:\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\demo\res\clock.c
+	<stdlib.h>
+	"GUI.h"
+
+1377240356 d:\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\demo\res\cpu.c
+	<stdlib.h>
+	"GUI.h"
+
+1378724692 d:\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\demo\res\game.c
+	<stdlib.h>
+	"GUI.h"
+
+1378724692 d:\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\demo\res\image.c
+	<stdlib.h>
+	"GUI.h"
+
+1378724692 d:\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\demo\res\info.c
+	<stdlib.h>
+	"GUI.h"
+
+1378724692 d:\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\demo\res\multimedia.c
+	<stdlib.h>
+	"GUI.h"
+
+1379399482 d:\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\demo\res\background.c
+
+1379683194 source:d:\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\demo\demo_startup.c
+	"global_includes.h"
+	"DIALOG.h"
+	"Res\startup_res.c"
+
+1379577886 d:\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\demo\res\startup_res.c
+	<stdlib.h>
+	"GUI.h"
+
+1379683194 source:d:\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\demo\demo_systeminfo.c
+	"global_includes.h"
+	"DIALOG.h"
+
+1379695600 source:d:\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\demo\demo_video.c
+	"global_includes.h"
+	"DIALOG.h"
+	"GUI_JPEG_Private.h"
+	"file_utils.h"
+	"str_utils.h"
+	"Res\common_res.h"
+	"string.h"
+
+1379696348 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\gui_jpeg_private.h
+
+1383734865 source:d:\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\devices\stm32f4xx\system_stm32f4xx.c
+	"stm32f4xx.h"
+
+1379683194 source:d:\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\lib\cpu_utils.c
+	"cpu_utils.h"
+
+1379577886 source:d:\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\lib\file_utils.c
+	"file_utils.h"
+	<string.h>
+
+1379683196 source:d:\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\lib\str_utils.c
+	<stdio.h>
+	<string.h>
+	"str_utils.h"
+
+1379683194 source:d:\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\lib\time_utils.c
+	"time_utils.h"
+
+1379678034 source:d:\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\test_program\test_program.c
+	"test_program.h"
+	"image.h"
+
+1379577886 d:\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\test_program\test_program.h
+	"stm32f429i_discovery.h"
+	"stm32f429i_discovery_lcd.h"
+	"stm32f429i_discovery_ioe.h"
+	"stm32f429i_discovery_sdram.h"
+	"stm32f429i_discovery_l3gd20.h"
+	"usbd_hid_core.h"
+	"usbd_usr.h"
+	"usbd_desc.h"
+
+1377240662 d:\stm32f429i-discovery_fw_v1.0.0\libraries\stm32_usb_device_library\core\inc\usbd_usr.h
+	"usbd_core.h"
+
+1379577886 d:\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\test_program\usbd_desc.h
+	"usbd_def.h"
+
+1379699424 d:\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\test_program\image.h
+
+1379577886 source:d:\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\test_program\usbd_desc.c
+	"usbd_core.h"
+	"usbd_desc.h"
+	"usbd_req.h"
+	"usbd_conf.h"
+	"usb_regs.h"
+
+1379577886 d:\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\test_program\usbd_conf.h
+	"usb_conf.h"
+
+1379677870 source:d:\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\test_program\usbd_usr.c
+	"usbd_usr.h"
+	"usbd_ioreq.h"
+	"usb_conf.h"
+
+1379683196 source:d:\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\user\bsp.c
+	"bsp.h"
+	"rtc.h"
+
+1379683198 d:\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\user\bsp.h
+	"global_includes.h"
+
+1379683198 d:\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\user\rtc.h
+	"global_includes.h"
+
+1379683196 source:d:\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\user\fatfs_drv.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usbh_msc_core.h"
+	"usbh_usr.h"
+	"diskio.h"
+	"global_includes.h"
+
+1377240384 d:\stm32f429i-discovery_fw_v1.0.0\utilities\third_party\fat_fs\inc\diskio.h
+	"integer.h"
+
+1382732683 source:d:\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\user\main.c
+	"bsp.h"
+	"timers.h "
+	"test_program.h"
+	<stddef.h>
+
+1379691416 source:d:\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\user\rtc.c
+	"rtc.h"
+
+1379699994 source:d:\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\user\stm32xxx_it.c
+	"global_includes.h"
+	"usb_hcd_int.h"
+	"usbh_core.h"
+	"test_program.h"
+	"usb_core.h"
+	"usbd_core.h"
+	"usbd_hid_core.h"
+	"usb_conf.h"
+
+1379683198 source:d:\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\user\usb_bsp.c
+	"usb_bsp.h"
+	"usb_conf.h"
+	"global_includes.h"
+
+1379683198 source:d:\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\user\usbh_usr.c
+	"usbh_usr.h"
+	"ff.h"
+	"usbh_msc_core.h"
+	"usbh_msc_scsi.h"
+	"usbh_msc_bot.h"
+	"ff.h"
+	"FreeRTOS.h"
+	"task.h"
+	"semphr.h"
+
+1382564886 source:d:\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\emblocks\startup_stm32f429_439xx.s
+
+1379578466 source:d:\stm32f429i-discovery_fw_v1.0.0\utilities\stm32f429i-discovery\stm32f429i_discovery.c
+	"stm32f429i_discovery.h"
+
+1379578466 source:d:\stm32f429i-discovery_fw_v1.0.0\utilities\stm32f429i-discovery\stm32f429i_discovery_ioe.c
+	"stm32f429i_discovery_ioe.h"
+
+1379578466 source:d:\stm32f429i-discovery_fw_v1.0.0\utilities\stm32f429i-discovery\stm32f429i_discovery_l3gd20.c
+	"stm32f429i_discovery_l3gd20.h"
+
+1379578466 source:d:\stm32f429i-discovery_fw_v1.0.0\utilities\stm32f429i-discovery\stm32f429i_discovery_lcd.c
+	"stm32f429i_discovery_lcd.h"
+	"../Common/fonts.c"
+
+1377240660 d:\stm32f429i-discovery_fw_v1.0.0\utilities\common\fonts.c
+	"fonts.h"
+
+1379578466 source:d:\stm32f429i-discovery_fw_v1.0.0\utilities\stm32f429i-discovery\stm32f429i_discovery_sdram.c
+	"stm32f429i_discovery_sdram.h"
+	"stm32f4xx_fmc.h"
+
+1377240390 source:d:\stm32f429i-discovery_fw_v1.0.0\utilities\third_party\freertos\source\croutine.c
+	"FreeRTOS.h"
+	"task.h"
+	"croutine.h"
+
+1377240386 d:\stm32f429i-discovery_fw_v1.0.0\utilities\third_party\freertos\source\include\croutine.h
+	"list.h"
+
+1377240390 source:d:\stm32f429i-discovery_fw_v1.0.0\utilities\third_party\freertos\source\list.c
+	<stdlib.h>
+	"FreeRTOS.h"
+	"list.h"
+
+1377240388 source:d:\stm32f429i-discovery_fw_v1.0.0\utilities\third_party\freertos\source\portable\gcc\arm_cm4f\port_cm4.c
+	"FreeRTOS.h"
+	"task.h"
+
+1377240388 source:d:\stm32f429i-discovery_fw_v1.0.0\utilities\third_party\freertos\source\portable\memmang\heap_2.c
+	<stdlib.h>
+	"FreeRTOS.h"
+	"task.h"
+
+1377240386 source:d:\stm32f429i-discovery_fw_v1.0.0\utilities\third_party\freertos\source\queue.c
+	<stdlib.h>
+	<string.h>
+	"FreeRTOS.h"
+	"task.h"
+	"croutine.h"
+
+1377240386 source:d:\stm32f429i-discovery_fw_v1.0.0\utilities\third_party\freertos\source\tasks.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"FreeRTOS.h"
+	"task.h"
+	"timers.h"
+	"StackMacros.h"
+
+1377240386 d:\stm32f429i-discovery_fw_v1.0.0\utilities\third_party\freertos\source\include\stackmacros.h
+
+1377240386 source:d:\stm32f429i-discovery_fw_v1.0.0\utilities\third_party\freertos\source\timers.c
+	"FreeRTOS.h"
+	"task.h"
+	"queue.h"
+	"timers.h"
+
+1377240384 source:d:\stm32f429i-discovery_fw_v1.0.0\utilities\third_party\fat_fs\src\ff.c
+	"ff.h"
+	"diskio.h"
+	<stdarg.h>
+
+1377240384 source:d:\stm32f429i-discovery_fw_v1.0.0\utilities\third_party\fat_fs\src\option\syscall.c
+	<stdlib.h>
+	"global_includes.h"
+
+1379483958 source:s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\src\misc.c
+	"misc.h"
+
+1379483960 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\inc\misc.h
+	"stm32f4xx.h"
+
+1379483954 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\cmsis\device\st\stm32f4xx\include\stm32f4xx.h
+	"core_cm4.h"
+	"system_stm32f4xx.h"
+	<stdint.h>
+	"stm32f4xx_conf.h"
+
+1379483954 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\cmsis\device\st\stm32f4xx\include\system_stm32f4xx.h
+
+1379577886 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\devices\stm32f4xx\stm32f4xx_conf.h
+	"stm32f4xx_adc.h"
+	"stm32f4xx_can.h"
+	"stm32f4xx_crc.h"
+	"stm32f4xx_cryp.h"
+	"stm32f4xx_dac.h"
+	"stm32f4xx_dbgmcu.h"
+	"stm32f4xx_dcmi.h"
+	"stm32f4xx_dma.h"
+	"stm32f4xx_dma2d.h"
+	"stm32f4xx_exti.h"
+	"stm32f4xx_flash.h"
+	"stm32f4xx_fmc.h"
+	"stm32f4xx_fsmc.h"
+	"stm32f4xx_hash.h"
+	"stm32f4xx_gpio.h"
+	"stm32f4xx_i2c.h"
+	"stm32f4xx_iwdg.h"
+	"stm32f4xx_ltdc.h"
+	"stm32f4xx_pwr.h"
+	"stm32f4xx_rcc.h"
+	"stm32f4xx_rng.h"
+	"stm32f4xx_rtc.h"
+	"stm32f4xx_sai.h"
+	"stm32f4xx_sdio.h"
+	"stm32f4xx_spi.h"
+	"stm32f4xx_syscfg.h"
+	"stm32f4xx_tim.h"
+	"stm32f4xx_usart.h"
+	"stm32f4xx_wwdg.h"
+	"misc.h"
+
+1379483960 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\inc\stm32f4xx_adc.h
+	"stm32f4xx.h"
+
+1379483960 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\inc\stm32f4xx_can.h
+	"stm32f4xx.h"
+
+1379483960 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\inc\stm32f4xx_crc.h
+	"stm32f4xx.h"
+
+1379483960 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\inc\stm32f4xx_cryp.h
+	"stm32f4xx.h"
+
+1379483960 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\inc\stm32f4xx_dac.h
+	"stm32f4xx.h"
+
+1379483960 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\inc\stm32f4xx_dbgmcu.h
+	"stm32f4xx.h"
+
+1379483960 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\inc\stm32f4xx_dcmi.h
+	"stm32f4xx.h"
+
+1379483960 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\inc\stm32f4xx_dma.h
+	"stm32f4xx.h"
+
+1379483960 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\inc\stm32f4xx_dma2d.h
+	"stm32f4xx.h"
+
+1379483960 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\inc\stm32f4xx_exti.h
+	"stm32f4xx.h"
+
+1379483960 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\inc\stm32f4xx_flash.h
+	"stm32f4xx.h"
+
+1379483960 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\inc\stm32f4xx_fmc.h
+	"stm32f4xx.h"
+
+1379483960 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\inc\stm32f4xx_fsmc.h
+	"stm32f4xx.h"
+
+1379483960 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\inc\stm32f4xx_hash.h
+	"stm32f4xx.h"
+
+1379483960 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\inc\stm32f4xx_gpio.h
+	"stm32f4xx.h"
+
+1379483960 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\inc\stm32f4xx_i2c.h
+	"stm32f4xx.h"
+
+1379483960 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\inc\stm32f4xx_iwdg.h
+	"stm32f4xx.h"
+
+1379483960 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\inc\stm32f4xx_ltdc.h
+	"stm32f4xx.h"
+
+1379483960 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\inc\stm32f4xx_pwr.h
+	"stm32f4xx.h"
+
+1379483960 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\inc\stm32f4xx_rcc.h
+	"stm32f4xx.h"
+
+1379483960 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\inc\stm32f4xx_rng.h
+	"stm32f4xx.h"
+
+1379483960 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\inc\stm32f4xx_rtc.h
+	"stm32f4xx.h"
+
+1379483960 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\inc\stm32f4xx_sai.h
+	"stm32f4xx.h"
+
+1379483960 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\inc\stm32f4xx_sdio.h
+	"stm32f4xx.h"
+
+1379483960 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\inc\stm32f4xx_spi.h
+	"stm32f4xx.h"
+
+1379483960 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\inc\stm32f4xx_syscfg.h
+	"stm32f4xx.h"
+
+1379483960 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\inc\stm32f4xx_tim.h
+	"stm32f4xx.h"
+
+1379483960 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\inc\stm32f4xx_usart.h
+	"stm32f4xx.h"
+
+1379483960 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\inc\stm32f4xx_wwdg.h
+	"stm32f4xx.h"
+
+1379483958 source:s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\src\stm32f4xx_adc.c
+	"stm32f4xx_adc.h"
+	"stm32f4xx_rcc.h"
+
+1379483958 source:s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\src\stm32f4xx_dcmi.c
+	"stm32f4xx_dcmi.h"
+	"stm32f4xx_rcc.h"
+
+1379483958 source:s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\src\stm32f4xx_dma.c
+	"stm32f4xx_dma.h"
+	"stm32f4xx_rcc.h"
+
+1379483958 source:s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\src\stm32f4xx_dma2d.c
+	"stm32f4xx_dma2d.h"
+	"stm32f4xx_rcc.h"
+
+1379483958 source:s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\src\stm32f4xx_exti.c
+	"stm32f4xx_exti.h"
+
+1379483958 source:s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\src\stm32f4xx_flash.c
+	"stm32f4xx_flash.h"
+
+1379483958 source:s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\src\stm32f4xx_fmc.c
+	"stm32f4xx_fmc.h"
+	"stm32f4xx_rcc.h"
+
+1379483958 source:s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\src\stm32f4xx_gpio.c
+	"stm32f4xx_gpio.h"
+	"stm32f4xx_rcc.h"
+
+1379483958 source:s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\src\stm32f4xx_i2c.c
+	"stm32f4xx_i2c.h"
+	"stm32f4xx_rcc.h"
+
+1379483958 source:s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\src\stm32f4xx_ltdc.c
+	"stm32f4xx_ltdc.h"
+	"stm32f4xx_rcc.h"
+
+1379483958 source:s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\src\stm32f4xx_pwr.c
+	"stm32f4xx_pwr.h"
+	"stm32f4xx_rcc.h"
+
+1379483958 source:s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\src\stm32f4xx_rcc.c
+	"stm32f4xx_rcc.h"
+
+1379483958 source:s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\src\stm32f4xx_rng.c
+	"stm32f4xx_rng.h"
+	"stm32f4xx_rcc.h"
+
+1379483958 source:s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\src\stm32f4xx_rtc.c
+	"stm32f4xx_rtc.h"
+
+1379483958 source:s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\src\stm32f4xx_sdio.c
+	"stm32f4xx_sdio.h"
+	"stm32f4xx_rcc.h"
+
+1379483958 source:s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\src\stm32f4xx_spi.c
+	"stm32f4xx_spi.h"
+	"stm32f4xx_rcc.h"
+
+1379483958 source:s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\src\stm32f4xx_syscfg.c
+	"stm32f4xx_syscfg.h"
+	"stm32f4xx_rcc.h"
+
+1379483958 source:s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\src\stm32f4xx_tim.c
+	"stm32f4xx_tim.h"
+	"stm32f4xx_rcc.h"
+
+1379483958 source:s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32f4xx_stdperiph_driver\src\stm32f4xx_usart.c
+	"stm32f4xx_usart.h"
+	"stm32f4xx_rcc.h"
+
+1377240662 source:s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32_usb_device_library\class\hid\src\usbd_hid_core.c
+	"usbd_hid_core.h"
+	"usbd_desc.h"
+	"usbd_req.h"
+
+1377240662 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32_usb_device_library\class\hid\inc\usbd_hid_core.h
+	"usbd_ioreq.h"
+
+1377240662 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32_usb_device_library\core\inc\usbd_ioreq.h
+	"usbd_def.h"
+	"usbd_core.h"
+
+1377240662 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32_usb_device_library\core\inc\usbd_def.h
+	"usbd_conf.h"
+
+1379577884 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\config\usbd_conf.h
+	"global_includes.h"
+
+1379581952 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\config\global_includes.h
+	"global_conf.h"
+	"FreeRTOS.h"
+	"task.h"
+	"semphr.h"
+	"stm32f429i_discovery.h"
+	"stm32f429i_discovery_lcd.h"
+	"stm32f429i_discovery_ioe.h"
+	"stm32f429i_discovery_sdram.h"
+	"stm32f429i_discovery_l3gd20.h"
+	"usbh_msc_core.h"
+	"usbh_msc_scsi.h"
+	"usbh_msc_bot.h"
+	"usbh_usr.h"
+	"ff.h"
+	"GUI.h"
+	"DIALOG.h"
+
+1379683198 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\config\global_conf.h
+
+1377240386 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\utilities\third_party\freertos\source\include\freertos.h
+	<stddef.h>
+	"projdefs.h"
+	"FreeRTOSConfig.h"
+	"portable.h"
+
+1377240386 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\utilities\third_party\freertos\source\include\projdefs.h
+
+1379577690 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\config\freertosconfig.h
+
+1377240386 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\utilities\third_party\freertos\source\include\portable.h
+	"..\..\Source\portable\owatcom\16bitdos\pc\portmacro.h"
+	"..\..\Source\portable\owatcom\16bitdos\flsh186\portmacro.h"
+	"../portable/GCC/ATMega323/portmacro.h"
+	"../portable/IAR/ATMega323/portmacro.h"
+	"..\..\Source\portable\MPLAB\PIC24_dsPIC\portmacro.h"
+	"..\..\Source\portable\MPLAB\PIC24_dsPIC\portmacro.h"
+	"..\..\Source\portable\MPLAB\PIC18F\portmacro.h"
+	"..\..\Source\portable\MPLAB\PIC32MX\portmacro.h"
+	"libFreeRTOS/Include/portmacro.h"
+	"../../Source/portable/SDCC/Cygnal/portmacro.h"
+	"../../Source/portable/GCC/ARM7_LPC2000/portmacro.h"
+	"portmacro.h"
+	"../../Source/portable/GCC/ARM7_LPC23xx/portmacro.h"
+	"..\..\Source\portable\IAR\MSP430\portmacro.h"
+	"../../Source/portable/GCC/MSP430F449/portmacro.h"
+	"../../Source/portable/Rowley/MSP430F449/portmacro.h"
+	"..\..\Source\portable\RVDS\ARM7_LPC21xx\portmacro.h"
+	"../../Source/portable/GCC/ARM7_AT91SAM7S/portmacro.h"
+	"..\..\Source\portable\IAR\AtmelSAM7S64\portmacro.h"
+	"..\..\Source\portable\IAR\AtmelSAM9XE\portmacro.h"
+	"..\..\Source\portable\IAR\LPC2000\portmacro.h"
+	"..\..\Source\portable\IAR\STR71x\portmacro.h"
+	"..\..\Source\portable\IAR\STR75x\portmacro.h"
+	"..\..\Source\portable\GCC\STR75x\portmacro.h"
+	"..\..\Source\portable\IAR\STR91x\portmacro.h"
+	"../../Source/portable/GCC/H8S2329/portmacro.h"
+	"../../Source/portable/GCC/ARM7_AT91FR40008/portmacro.h"
+	"../../Source/portable/RVDS/ARM_CM3/portmacro.h"
+	"../../Source/portable/GCC/ARM_CM3/portmacro.h"
+	"../../Source/portable/GCC/ARM_CM3/portmacro.h"
+	"../../Source/portable/IAR/ARM_CM3/portmacro.h"
+	"../../Source/portable/IAR/ARM_CM3/portmacro.h"
+	"../../Source/portable/CodeWarrior/HCS12/portmacro.h"
+	"../../Source/portable/GCC/MicroBlaze/portmacro.h"
+	"..\..\Source\portable\Paradigm\Tern_EE\small\portmacro.h"
+	"../../Source/portable/GCC/HCS12/portmacro.h"
+	"../../Source/portable/GCC/MCF5235/portmacro.h"
+	"../../../Source/portable/GCC/ColdFire_V2/portmacro.h"
+	"../../Source/portable/CodeWarrior/ColdFire_V2/portmacro.h"
+	"../../Source/portable/GCC/PPC405_Xilinx/portmacro.h"
+	"../../Source/portable/GCC/PPC440_Xilinx/portmacro.h"
+	"..\..\Source\portable\Softune\MB96340\portmacro.h"
+	"frconfig.h"
+	"..\portable\BCC\16BitDOS\PC\prtmacro.h"
+	"frconfig.h"
+	"..\portable\BCC\16BitDOS\flsh186\prtmacro.h"
+	"portmacro.h"
+	"portmacro.h"
+	"portmacro.h"
+	"portmacro.h"
+	"../../Source/portable/IAR/V850ES/portmacro.h"
+	"../../Source/portable/IAR/V850ES/portmacro.h"
+	"../../Source/portable/IAR/V850ES/portmacro.h"
+	"../../Source/portable/IAR/V850ES/portmacro.h"
+	"../../Source/portable/IAR/V850ES/portmacro.h"
+	"../../Source/portable/IAR/78K0R/portmacro.h"
+	"../../Source/portable/IAR/78K0R/portmacro.h"
+	"portmacro.h"
+	"mpu_wrappers.h"
+
+1377240388 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\utilities\third_party\freertos\source\portable\gcc\arm_cm4f\portmacro.h
+
+1377240388 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\utilities\third_party\freertos\source\portable\rvds\arm_cm3\portmacro.h
+
+1377240388 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\utilities\third_party\freertos\source\portable\gcc\arm_cm3\portmacro.h
+
+1377240388 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\utilities\third_party\freertos\source\portable\iar\arm_cm3\portmacro.h
+
+1377240386 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\utilities\third_party\freertos\source\include\mpu_wrappers.h
+
+1377240386 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\utilities\third_party\freertos\source\include\task.h
+	"portable.h"
+	"list.h"
+
+1377240386 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\utilities\third_party\freertos\source\include\list.h
+
+1377240386 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\utilities\third_party\freertos\source\include\semphr.h
+	"queue.h"
+
+1377240386 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\utilities\third_party\freertos\source\include\queue.h
+	"mpu_wrappers.h"
+
+1379578466 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\utilities\stm32f429i-discovery\stm32f429i_discovery.h
+	"stm32f4xx.h"
+
+1379578466 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\utilities\stm32f429i-discovery\stm32f429i_discovery_lcd.h
+	"stm32f4xx.h"
+	"stm32f429i_discovery.h"
+	"stm32f429i_discovery_sdram.h"
+	"../Common/fonts.h"
+	"main.h"
+
+1379578466 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\utilities\stm32f429i-discovery\stm32f429i_discovery_sdram.h
+	"stm32f4xx.h"
+
+1377240660 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\utilities\common\fonts.h
+	<stdint.h>
+
+1379578466 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\utilities\stm32f429i-discovery\stm32f429i_discovery_ioe.h
+	"stm32f429i_discovery.h"
+	"main.h"
+
+1379578466 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\utilities\stm32f429i-discovery\stm32f429i_discovery_l3gd20.h
+	"stm32f4xx.h"
+	"stm32f4xx_spi.h"
+	"stm32f4xx_rcc.h"
+
+1377240664 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32_usb_host_library\class\msc\inc\usbh_msc_core.h
+	"usbh_core.h"
+	"usbh_stdreq.h"
+	"usb_bsp.h"
+	"usbh_ioreq.h"
+	"usbh_hcs.h"
+	"usbh_msc_core.h"
+	"usbh_msc_scsi.h"
+	"usbh_msc_bot.h"
+
+1377240664 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32_usb_host_library\core\inc\usbh_core.h
+	"usb_hcd.h"
+	"usbh_def.h"
+	"usbh_conf.h"
+
+1377240664 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32_usb_otg_driver\inc\usb_hcd.h
+	"usb_regs.h"
+	"usb_core.h"
+
+1377240664 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32_usb_otg_driver\inc\usb_regs.h
+	"usb_conf.h"
+
+1379683198 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\config\usb_conf.h
+	"stm32f4xx.h"
+	"stm32f429i_discovery.h"
+	"stm32f429i_discovery_lcd.h"
+	"stm32f429i_discovery_ioe.h"
+	"stm32f429i_discovery_sdram.h"
+
+1377240664 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32_usb_otg_driver\inc\usb_core.h
+	"usb_conf.h"
+	"usb_regs.h"
+	"usb_defines.h"
+
+1377240664 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32_usb_otg_driver\inc\usb_defines.h
+	"usb_conf.h"
+
+1377240664 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32_usb_host_library\core\inc\usbh_def.h
+
+1379577884 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\config\usbh_conf.h
+
+1377240664 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32_usb_host_library\core\inc\usbh_stdreq.h
+	"usb_conf.h"
+	"usb_hcd.h"
+	"usbh_core.h"
+	"usbh_def.h"
+
+1377240664 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32_usb_otg_driver\inc\usb_bsp.h
+	"usb_core.h"
+	"usb_conf.h"
+
+1377240664 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32_usb_host_library\core\inc\usbh_ioreq.h
+	"usb_conf.h"
+	"usbh_core.h"
+	"usbh_def.h"
+
+1377240664 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32_usb_host_library\core\inc\usbh_hcs.h
+	"usbh_core.h"
+
+1377240664 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32_usb_host_library\class\msc\inc\usbh_msc_scsi.h
+	"usbh_stdreq.h"
+
+1377240664 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32_usb_host_library\class\msc\inc\usbh_msc_bot.h
+	"usbh_stdreq.h"
+
+1379683196 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\user\usbh_usr.h
+	"global_includes.h"
+	<stdio.h>
+	"usbh_msc_core.h"
+
+1377240384 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\utilities\third_party\fat_fs\inc\ff.h
+	"integer.h"
+	"ffconf.h"
+
+1377240384 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\utilities\third_party\fat_fs\inc\integer.h
+	<windows.h>
+	<tchar.h>
+
+1379696116 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\config\ffconf.h
+	"global_includes.h"
+
+1379697670 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\gui.h
+	"GUI_ConfDefaults.h"
+	"GUI_Type.h"
+	"GUI_Version.h"
+
+1379696348 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\gui_confdefaults.h
+	"GUIConf.h"
+
+1379696334 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\config\guiconf.h
+
+1379696348 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\gui_type.h
+	"LCD.h"
+	"GUIConf.h"
+
+1379696348 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\lcd.h
+	"GUI_ConfDefaults.h"
+	"Global.h"
+
+1379696346 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\global.h
+
+1379696348 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\gui_version.h
+
+1379696348 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\dialog.h
+	"WM.h"
+	"BUTTON.h"
+	"CALENDAR.h"
+	"CHECKBOX.h"
+	"CHOOSECOLOR.h"
+	"CHOOSEFILE.h"
+	"DROPDOWN.h"
+	"EDIT.h"
+	"FRAMEWIN.h"
+	"GRAPH.h"
+	"HEADER.h"
+	"ICONVIEW.h"
+	"IMAGE.h"
+	"LISTBOX.h"
+	"LISTVIEW.h"
+	"LISTWHEEL.h"
+	"MENU.h"
+	"MULTIEDIT.h"
+	"MULTIPAGE.h"
+	"PROGBAR.h"
+	"RADIO.h"
+	"SCROLLBAR.h"
+	"SLIDER.h"
+	"SPINBOX.h"
+	"TEXT.h"
+	"TREEVIEW.h"
+
+1379696348 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\wm.h
+	"GUI_ConfDefaults.h"
+	"GUI_Type.h"
+	"WM_GUI.h"
+	"GUI.h"
+
+1379696346 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\wm_gui.h
+
+1379696348 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\button.h
+	"WM.h"
+	"DIALOG_Intern.h"
+	"WIDGET.h"
+
+1379696346 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\dialog_intern.h
+	"WM.h"
+
+1379696348 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\widget.h
+	"WM_Intern.h"
+	"SCROLLBAR.h"
+
+1379696348 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\wm_intern.h
+	"WM.h"
+	"GUI_Private.h"
+
+1379696348 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\gui_private.h
+	"GUI.h"
+	"LCD_Protected.h"
+	"GUI_Debug.h"
+	"WM_GUI.h"
+
+1379696348 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\lcd_protected.h
+	"LCD.h"
+
+1379696348 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\gui_debug.h
+	<stddef.h>
+	"GUI.h"
+
+1379696346 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\scrollbar.h
+	"WM.h"
+	"DIALOG_Intern.h"
+	"WIDGET.h"
+
+1379696348 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\calendar.h
+	"WM.h"
+
+1379696346 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\checkbox.h
+	"WM.h"
+	"DIALOG_Intern.h"
+	"WIDGET.h"
+
+1379696348 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\choosecolor.h
+	"WM.h"
+
+1379696346 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\choosefile.h
+	"WM.h"
+
+1379696346 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\dropdown.h
+	"WM.h"
+	"DIALOG_Intern.h"
+	"LISTBOX.h"
+
+1379696348 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\listbox.h
+	"WM.h"
+	"WIDGET.h"
+	"DIALOG_Intern.h"
+
+1379696348 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\edit.h
+	"WM.h"
+	"DIALOG_Intern.h"
+
+1379696346 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\framewin.h
+	"WM.h"
+	"WIDGET.h"
+	"DIALOG_Intern.h"
+
+1379696348 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\graph.h
+	"WM.h"
+	"DIALOG_Intern.h"
+	"WIDGET.h"
+
+1379696348 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\header.h
+	"WM.h"
+	"DIALOG_Intern.h"
+	"WIDGET.h"
+
+1379696348 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\iconview.h
+	"WM.h"
+	"DIALOG_Intern.h"
+	"WIDGET.h"
+
+1379696348 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\image.h
+	"WM.h"
+	"DIALOG_Intern.h"
+	"WIDGET.h"
+
+1379696348 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\listview.h
+	"WM.h"
+	"DIALOG_Intern.h"
+	"ICONVIEW.h"
+	"HEADER.h"
+
+1379696348 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\listwheel.h
+	"WM.h"
+	"WIDGET.h"
+	"DIALOG_Intern.h"
+
+1379696346 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\menu.h
+	"WM.h"
+	"WIDGET.h"
+	"DIALOG_Intern.h"
+
+1379696346 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\multiedit.h
+	"WM.h"
+	"DIALOG_Intern.h"
+
+1379696350 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\multipage.h
+	"WM.h"
+	"DIALOG.h"
+
+1379696346 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\progbar.h
+	"WM.h"
+	"DIALOG_Intern.h"
+	"WIDGET.h"
+
+1379696346 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\radio.h
+	"WM.h"
+	"DIALOG_Intern.h"
+	"WIDGET.h"
+
+1379696346 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\slider.h
+	"WM.h"
+	"DIALOG_Intern.h"
+	"WIDGET.h"
+
+1379696346 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\spinbox.h
+	"WM.h"
+	"DIALOG_Intern.h"
+	"WIDGET.h"
+	"GUI_Debug.h"
+	"EDIT.h"
+
+1379696346 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\text.h
+	"WM.h"
+	"DIALOG_Intern.h"
+	"WIDGET.h"
+	"GUI_Debug.h"
+
+1379696348 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\treeview.h
+	"WM.h"
+	"DIALOG_Intern.h"
+	"WIDGET.h"
+
+1377240662 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32_usb_device_library\core\inc\usbd_core.h
+	"usb_dcd.h"
+	"usbd_def.h"
+	"usbd_conf.h"
+
+1377240664 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32_usb_otg_driver\inc\usb_dcd.h
+	"usb_core.h"
+
+1379577886 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\user\usbd_desc.h
+	"usbd_def.h"
+
+1377240662 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32_usb_device_library\core\inc\usbd_req.h
+	"usbd_def.h"
+	"usbd_core.h"
+	"usbd_conf.h"
+
+1377240662 source:s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32_usb_device_library\core\src\usbd_core.c
+	"usbd_core.h"
+	"usbd_req.h"
+	"usbd_ioreq.h"
+	"usb_dcd_int.h"
+	"usb_bsp.h"
+
+1377240664 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32_usb_otg_driver\inc\usb_dcd_int.h
+	"usb_dcd.h"
+
+1377240662 source:s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32_usb_device_library\core\src\usbd_ioreq.c
+	"usbd_ioreq.h"
+
+1382032522 source:s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32_usb_device_library\core\src\usbd_req.c
+	"usbd_req.h"
+	"usbd_ioreq.h"
+	"usbd_desc.h"
+
+1377240664 source:s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32_usb_host_library\class\msc\src\usbh_msc_bot.c
+	"usbh_msc_core.h"
+	"usbh_msc_scsi.h"
+	"usbh_msc_bot.h"
+	"usbh_ioreq.h"
+	"usbh_def.h"
+	"usb_hcd_int.h"
+
+1377240664 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32_usb_otg_driver\inc\usb_hcd_int.h
+	"usb_hcd.h"
+
+1377240664 source:s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32_usb_host_library\class\msc\src\usbh_msc_core.c
+	"usbh_msc_core.h"
+	"usbh_msc_scsi.h"
+	"usbh_msc_bot.h"
+	"usbh_core.h"
+
+1377240664 source:s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32_usb_host_library\class\msc\src\usbh_msc_scsi.c
+	"usbh_msc_core.h"
+	"usbh_msc_scsi.h"
+	"usbh_msc_bot.h"
+	"usbh_ioreq.h"
+	"usbh_def.h"
+
+1377240664 source:s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32_usb_host_library\core\src\usbh_core.c
+	"usbh_ioreq.h"
+	"usb_bsp.h"
+	"usbh_hcs.h"
+	"usbh_stdreq.h"
+	"usbh_core.h"
+	"usb_hcd_int.h"
+
+1377240664 source:s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32_usb_host_library\core\src\usbh_hcs.c
+	"usbh_hcs.h"
+
+1377240664 source:s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32_usb_host_library\core\src\usbh_ioreq.c
+	"usbh_ioreq.h"
+
+1377240664 source:s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32_usb_host_library\core\src\usbh_stdreq.c
+	"usbh_ioreq.h"
+	"usbh_stdreq.h"
+
+1377240664 source:s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32_usb_otg_driver\src\usb_core.c
+	"usb_core.h"
+	"usb_bsp.h"
+
+1377240664 source:s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32_usb_otg_driver\src\usb_dcd.c
+	"usb_dcd.h"
+	"usb_bsp.h"
+
+1377240664 source:s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32_usb_otg_driver\src\usb_dcd_int.c
+	"usb_dcd_int.h"
+
+1377240664 source:s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32_usb_otg_driver\src\usb_hcd.c
+	"usb_core.h"
+	"usb_hcd.h"
+	"usb_conf.h"
+	"usb_bsp.h"
+
+1377240664 source:s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32_usb_otg_driver\src\usb_hcd_int.c
+	"usb_core.h"
+	"usb_defines.h"
+	"usb_hcd_int.h"
+
+1382527318 source:s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\config\guiconf.c
+	"GUI.h"
+
+1379696334 source:s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\config\guidrv_stm32f429i_discovery.c
+	"GUI.h"
+	"GUI_Private.h"
+	"GUIDRV_Lin.h"
+	"global_includes.h"
+
+1379696346 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\guidrv_lin.h
+
+1381555899 source:s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\os\gui_x_freertos.c
+	"GUI.h"
+	"FreeRTOS.h"
+	"task.h"
+	"timers.h"
+	"semphr.h"
+
+1377240386 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\utilities\third_party\freertos\source\include\timers.h
+	"portable.h"
+	"list.h"
+	"task.h"
+
+1379577886 source:s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\demo\res\common_res.c
+	"stdlib.h"
+	"common_res.h"
+	"GUI.h"
+
+1379577886 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\demo\res\common_res.h
+	"global_includes.h"
+
+1379691416 source:s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\demo\demo_clock.c
+	"global_includes.h"
+	"DIALOG.h"
+	"time_utils.h"
+	"calendar.h"
+	"Res\clock_res.c"
+	"Res\alarmclock.c"
+
+1379683194 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\lib\time_utils.h
+	"global_includes.h"
+
+1379577886 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\demo\res\clock_res.c
+	<stdlib.h>
+	"GUI.h"
+
+1379598304 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\demo\res\alarmclock.c
+	<stdlib.h>
+	"GUI.h"
+
+1379695600 source:s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\demo\demo_cpu.c
+	<stdlib.h>
+	"global_includes.h"
+	"DIALOG.h"
+	"cpu_utils.h"
+
+1379683196 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\lib\cpu_utils.h
+	"global_includes.h"
+
+1379691416 source:s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\demo\demo_game.c
+	<string.h>
+	<stdio.h>
+	"GUI.h"
+	"DIALOG.h"
+	"MENU.h"
+
+1379695600 source:s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\demo\demo_image.c
+	"global_includes.h"
+	"DIALOG.h"
+	"file_utils.h"
+	"str_utils.h"
+	"Res\common_res.h"
+	"string.h"
+
+1379577886 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\lib\file_utils.h
+	"global_includes.h"
+
+1379683196 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\lib\str_utils.h
+	"global_includes.h"
+
+1379691416 source:s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\demo\demo_menu.c
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"WM.h"
+	"Res\menu_res.c"
+	"Res\clock.c"
+	"Res\cpu.c"
+	"Res\game.c"
+	"Res\image.c"
+	"Res\info.c"
+	"Res\multimedia.c"
+	"Res\background.c"
+	"time_utils.h"
+	"cpu_utils.h"
+
+1379577886 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\demo\res\menu_res.c
+	<stdlib.h>
+	"GUI.h"
+
+1378724692 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\demo\res\clock.c
+	<stdlib.h>
+	"GUI.h"
+
+1377240356 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\demo\res\cpu.c
+	<stdlib.h>
+	"GUI.h"
+
+1378724692 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\demo\res\game.c
+	<stdlib.h>
+	"GUI.h"
+
+1378724692 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\demo\res\image.c
+	<stdlib.h>
+	"GUI.h"
+
+1378724692 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\demo\res\info.c
+	<stdlib.h>
+	"GUI.h"
+
+1378724692 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\demo\res\multimedia.c
+	<stdlib.h>
+	"GUI.h"
+
+1379399482 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\demo\res\background.c
+
+1379683194 source:s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\demo\demo_startup.c
+	"global_includes.h"
+	"DIALOG.h"
+	"Res\startup_res.c"
+
+1379577886 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\demo\res\startup_res.c
+	<stdlib.h>
+	"GUI.h"
+
+1379683194 source:s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\demo\demo_systeminfo.c
+	"global_includes.h"
+	"DIALOG.h"
+
+1379695600 source:s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\demo\demo_video.c
+	"global_includes.h"
+	"DIALOG.h"
+	"GUI_JPEG_Private.h"
+	"file_utils.h"
+	"str_utils.h"
+	"Res\common_res.h"
+	"string.h"
+
+1379696348 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stemwinlibrary522_4x9i\inc\gui_jpeg_private.h
+
+1383734865 source:s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\devices\stm32f4xx\system_stm32f4xx.c
+	"stm32f4xx.h"
+
+1379683194 source:s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\lib\cpu_utils.c
+	"cpu_utils.h"
+
+1379577886 source:s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\lib\file_utils.c
+	"file_utils.h"
+	<string.h>
+
+1379683196 source:s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\lib\str_utils.c
+	<stdio.h>
+	<string.h>
+	"str_utils.h"
+
+1379683194 source:s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\lib\time_utils.c
+	"time_utils.h"
+
+1379678034 source:s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\test_program\test_program.c
+	"test_program.h"
+	"image.h"
+
+1379577886 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\test_program\test_program.h
+	"stm32f429i_discovery.h"
+	"stm32f429i_discovery_lcd.h"
+	"stm32f429i_discovery_ioe.h"
+	"stm32f429i_discovery_sdram.h"
+	"stm32f429i_discovery_l3gd20.h"
+	"usbd_hid_core.h"
+	"usbd_usr.h"
+	"usbd_desc.h"
+
+1377240662 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\libraries\stm32_usb_device_library\core\inc\usbd_usr.h
+	"usbd_core.h"
+
+1379577886 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\test_program\usbd_desc.h
+	"usbd_def.h"
+
+1379699424 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\test_program\image.h
+
+1379577886 source:s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\test_program\usbd_desc.c
+	"usbd_core.h"
+	"usbd_desc.h"
+	"usbd_req.h"
+	"usbd_conf.h"
+	"usb_regs.h"
+
+1379577886 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\test_program\usbd_conf.h
+	"usb_conf.h"
+
+1379677870 source:s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\test_program\usbd_usr.c
+	"usbd_usr.h"
+	"usbd_ioreq.h"
+	"usb_conf.h"
+
+1379683196 source:s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\user\bsp.c
+	"bsp.h"
+	"rtc.h"
+
+1379683198 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\user\bsp.h
+	"global_includes.h"
+
+1379683198 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\user\rtc.h
+	"global_includes.h"
+
+1379683196 source:s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\user\fatfs_drv.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usbh_msc_core.h"
+	"usbh_usr.h"
+	"diskio.h"
+	"global_includes.h"
+
+1377240384 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\utilities\third_party\fat_fs\inc\diskio.h
+	"integer.h"
+
+1382732683 source:s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\user\main.c
+	"bsp.h"
+	"timers.h "
+	"test_program.h"
+	<stddef.h>
+
+1379691416 source:s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\user\rtc.c
+	"rtc.h"
+
+1379699994 source:s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\user\stm32xxx_it.c
+	"global_includes.h"
+	"usb_hcd_int.h"
+	"usbh_core.h"
+	"test_program.h"
+	"usb_core.h"
+	"usbd_core.h"
+	"usbd_hid_core.h"
+	"usb_conf.h"
+
+1379683198 source:s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\user\usb_bsp.c
+	"usb_bsp.h"
+	"usb_conf.h"
+	"global_includes.h"
+
+1379683198 source:s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\core\user\usbh_usr.c
+	"usbh_usr.h"
+	"ff.h"
+	"usbh_msc_core.h"
+	"usbh_msc_scsi.h"
+	"usbh_msc_bot.h"
+	"ff.h"
+	"FreeRTOS.h"
+	"task.h"
+	"semphr.h"
+
+1382564886 source:s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\projects\demonstration\emblocks\startup_stm32f429_439xx.s
+
+1379578466 source:s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\utilities\stm32f429i-discovery\stm32f429i_discovery.c
+	"stm32f429i_discovery.h"
+
+1379578466 source:s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\utilities\stm32f429i-discovery\stm32f429i_discovery_ioe.c
+	"stm32f429i_discovery_ioe.h"
+
+1379578466 source:s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\utilities\stm32f429i-discovery\stm32f429i_discovery_l3gd20.c
+	"stm32f429i_discovery_l3gd20.h"
+
+1379578466 source:s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\utilities\stm32f429i-discovery\stm32f429i_discovery_lcd.c
+	"stm32f429i_discovery_lcd.h"
+	"../Common/fonts.c"
+
+1377240660 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\utilities\common\fonts.c
+	"fonts.h"
+
+1379578466 source:s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\utilities\stm32f429i-discovery\stm32f429i_discovery_sdram.c
+	"stm32f429i_discovery_sdram.h"
+	"stm32f4xx_fmc.h"
+
+1377240390 source:s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\utilities\third_party\freertos\source\croutine.c
+	"FreeRTOS.h"
+	"task.h"
+	"croutine.h"
+
+1377240386 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\utilities\third_party\freertos\source\include\croutine.h
+	"list.h"
+
+1377240390 source:s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\utilities\third_party\freertos\source\list.c
+	<stdlib.h>
+	"FreeRTOS.h"
+	"list.h"
+
+1377240388 source:s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\utilities\third_party\freertos\source\portable\gcc\arm_cm4f\port_cm4.c
+	"FreeRTOS.h"
+	"task.h"
+
+1377240388 source:s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\utilities\third_party\freertos\source\portable\memmang\heap_2.c
+	<stdlib.h>
+	"FreeRTOS.h"
+	"task.h"
+
+1377240386 source:s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\utilities\third_party\freertos\source\queue.c
+	<stdlib.h>
+	<string.h>
+	"FreeRTOS.h"
+	"task.h"
+	"croutine.h"
+
+1377240386 source:s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\utilities\third_party\freertos\source\tasks.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"FreeRTOS.h"
+	"task.h"
+	"timers.h"
+	"StackMacros.h"
+
+1377240386 s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\utilities\third_party\freertos\source\include\stackmacros.h
+
+1377240386 source:s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\utilities\third_party\freertos\source\timers.c
+	"FreeRTOS.h"
+	"task.h"
+	"queue.h"
+	"timers.h"
+
+1377240384 source:s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\utilities\third_party\fat_fs\src\ff.c
+	"ff.h"
+	"diskio.h"
+	<stdarg.h>
+
+1377240384 source:s:\users\gerard\desktop\stm32f429i-discovery_fw_v1.0.0\utilities\third_party\fat_fs\src\option\syscall.c
+	<stdlib.h>
+	"global_includes.h"
+

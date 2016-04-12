@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<EmBlocks_project_file>
+	<EmBlocksVersion release="1.31" revision="1" />
+	<FileVersion major="1" minor="0" />
+	<Project>
+		<Option title="EXTI_Example" />
+		<Option pch_mode="2" />
+		<Option compiler="armgcc_eb" />
+		<Build>
+			<Target title="EXTI_Example">
+				<Option output="EXTI_Example.elf" />
+				<Option object_output=".\EXTI_Example\" />
+				<Option type="0" />
+				<Option compiler="armgcc_eb" />
+				<Option projectDeviceOptionsRelation="0" />
+				<Device>
+					<Add option='$device=&quot;Cortex-M4&quot;' />
+					<Add option="$scatter=.\EXTI_Example\EXTI_Example.sct" />
+				</Device>
+				<Compiler>
+					<Add option="-mfloat-abi=softfp" />
+					<Add option="-mthumb-interwork" />
+					<Add option="-fdata-sections" />
+					<Add option="-ffunction-sections" />
+					<Add option="-O0" />
+					<Add option="-g2" />
+					<Add option="-DUSE_STDPERIPH_DRIVER" />
+					<Add option="-DSTM32F429_439xx" />
+					<Add option="-DUSE_STM32F429I_DISCO" />
+					<Add directory="$(TARGET_COMPILER_DIR)\..\INC\ST\STM32F4xx\" />
+					<Add directory=".\..\" />
+					<Add directory=".\..\..\..\..\Libraries\CMSIS\Device\ST\STM32F4xx\Include" />
+					<Add directory=".\..\..\..\..\Libraries\CMSIS\Include" />
+					<Add directory=".\..\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc" />
+					<Add directory=".\..\..\..\..\Utilities\STM32F429I-Discovery" />
+				</Compiler>
+				<Assembler>
+					<Add option="-Wa,-mthumb-interwork" />
+					<Add option="-Wa,--gdwarf-2" />
+				</Assembler>
+				<Linker>
+					<Add option="-eb_start_files" />
+					<Add option="-eb_lib=n" />
+					<Add option="-Wl,--gc-sections" />
+				</Linker>
+			</Target>
+		</Build>
+		<Device>
+			<Add option="$device=cortex-m4" />
+			<Add option="$fpu=fpv4-sp-d16" />
+			<Add option="$lscript=STM32F429ZI_FLASH.ld" />
+		</Device>
+		<Unit filename="..\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\misc.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_dma.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_exti.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_gpio.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_i2c.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rcc.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_syscfg.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="startup_stm32f429_439xx.S">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\stm32f4xx_it.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\system_stm32f4xx.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\..\..\Utilities\STM32F429i-Discovery\stm32f429i_discovery.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<debugger>
+				<target_debugging_settings target="EXTI_Example" active_interface="ST-link">
+					<debug_interface interface_id="ST-link" ip_address="localhost" ip_port="4242" path="${EMBLOCKS}\share\contrib" executable="STLinkGDB.exe" description="" dont_start_server="false" backoff_time="1000" options="0" active_family="STMicroelectronics">
+						<family_options family_id="STMicroelectronics">
+							<option opt_id="ID_JTAG_SWD" opt_value="swd" />
+							<option opt_id="ID_VECTOR_START" opt_value="0x08000000" />
+							<option opt_id="ID_RESET_TYPE" opt_value="System" />
+							<option opt_id="ID_LOAD_PROGRAM" opt_value="1" />
+							<option opt_id="ID_SEMIHOST_CHECK" opt_value="0" />
+							<option opt_id="ID_RAM_EXEC" opt_value="0" />
+							<option opt_id="ID_VEC_TABLE" opt_value="0" />
+							<option opt_id="ID_VERBOSE_LEVEL" opt_value="3" />
+						</family_options>
+					</debug_interface>
+				</target_debugging_settings>
+			</debugger>
+			<envvars />
+		</Extensions>
+	</Project>
+</EmBlocks_project_file>

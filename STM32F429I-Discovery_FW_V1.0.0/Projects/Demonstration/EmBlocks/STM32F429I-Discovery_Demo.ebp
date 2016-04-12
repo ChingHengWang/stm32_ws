@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<EmBlocks_project_file>
+	<EmBlocksVersion release="1.40" revision="3" />
+	<FileVersion major="1" minor="0" />
+	<Project>
+		<Option title="STM32F429I-Discovery_" />
+		<Option pch_mode="2" />
+		<Option compiler="armgcc_eb" />
+		<Option force_lowcase_obj_names="0" />
+		<Build>
+			<Target title="STM32F429I-Discovery_Demo">
+				<Option output=".\output\Demo.elf" />
+				<Option object_output=".\obj" />
+				<Option type="0" />
+				<Option compiler="armgcc_eb" />
+				<Option projectDeviceOptionsRelation="0" />
+				<Device>
+					<Add option="$device=cortex-m4" />
+				</Device>
+				<Compiler>
+					<Add option="-std=c99" />
+					<Add option="-fdata-sections" />
+					<Add option="-ffunction-sections" />
+					<Add option="-O2" />
+					<Add option="-funsigned-char" />
+					<Add option="-DUSE_STDPERIPH_DRIVER" />
+					<Add option="-DSTM32F429_439xx" />
+					<Add option="-DUSE_STM32F429I_DISCO" />
+					<Add option="-DUSE_USB_OTG_HS" />
+					<Add option="-DUSE_EMBEDDED_PHY" />
+					<Add directory=".\..\Config" />
+					<Add directory=".\..\Core\Devices\STM32F4xx" />
+					<Add directory=".\..\Core\User" />
+					<Add directory=".\..\Core\Demo" />
+					<Add directory=".\..\Core\Lib" />
+					<Add directory=".\..\Core\Test_Program" />
+					<Add directory=".\..\..\..\Libraries\STM32_USB_HOST_Library\Core\inc" />
+					<Add directory=".\..\..\..\Libraries\STM32_USB_HOST_Library\Class\MSC\inc" />
+					<Add directory=".\..\..\..\Libraries\STM32_USB_Device_Library\Core\inc" />
+					<Add directory=".\..\..\..\Libraries\STM32_USB_Device_Library\Class\MSC\inc" />
+					<Add directory=".\..\..\..\Libraries\STM32_USB_Device_Library\Class\HID\inc" />
+					<Add directory=".\..\..\..\Libraries\STM32_USB_Device_Library\Class\Audio\inc" />
+					<Add directory=".\..\..\..\Libraries\STM32_USB_OTG_Driver\inc" />
+					<Add directory=".\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc" />
+					<Add directory=".\..\..\..\Libraries\CMSIS\Device\ST\STM32F4xx\Include" />
+					<Add directory=".\..\..\..\Utilities" />
+					<Add directory=".\..\..\..\Utilities\Common" />
+					<Add directory=".\..\..\..\Utilities\STM32F429i-Discovery" />
+					<Add directory=".\..\..\..\Utilities\Third_Party\fat_fs\inc" />
+					<Add directory="..\..\..\Utilities\Third_Party\FreeRTOS\Source\portable\GCC\ARM_CM4F" />
+					<Add directory=".\..\..\..\Utilities\Third_Party\FreeRTOS\Source\include" />
+					<Add directory=".\..\..\..\Libraries\STemWinLibrary522_4x9i\inc" />
+					<Add directory=".\..\..\..\Libraries\STemWinLibrary522_4x9i\Config" />
+				</Compiler>
+				<Assembler>
+					<Add option="-Wa,--gdwarf-2" />
+				</Assembler>
+				<Linker>
+					<Add option="-Wl,--gc-sections" />
+					<Add library="..\..\..\Libraries\STemWinLibrary522_4x9i\Lib\STemWin522_4x9i_CM4_OS_GCC.a" />
+				</Linker>
+			</Target>
+		</Build>
+		<Device>
+			<Add option="$device=cortex-m4" />
+			<Add option="$fpu=fpv4-sp-d16" />
+			<Add option="$lscript=STM32F429ZI_FLASH.ld" />
+		</Device>
+		<Compiler>
+			<Add option="-mfloat-abi=softfp" />
+			<Add option="-g3" />
+		</Compiler>
+		<Linker>
+			<Add option="-eb_start_files" />
+		</Linker>
+		<Unit filename="..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\misc.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_adc.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_dcmi.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_dma.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_dma2d.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_exti.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_flash.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_fmc.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_fsmc.c">
+			<Option compilerVar="CC" />
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_gpio.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_i2c.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_ltdc.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_pwr.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rcc.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rng.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rtc.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_sdio.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_spi.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_syscfg.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_usart.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\..\Libraries\STM32_USB_Device_Library\Class\hid\src\usbd_hid_core.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\..\Libraries\STM32_USB_Device_Library\Core\src\usbd_core.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\..\Libraries\STM32_USB_Device_Library\Core\src\usbd_ioreq.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\..\Libraries\STM32_USB_Device_Library\Core\src\usbd_req.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\..\Libraries\STM32_USB_HOST_Library\Class\MSC\src\usbh_msc_bot.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\..\Libraries\STM32_USB_HOST_Library\Class\MSC\src\usbh_msc_core.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\..\Libraries\STM32_USB_HOST_Library\Class\MSC\src\usbh_msc_scsi.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\..\Libraries\STM32_USB_HOST_Library\Core\src\usbh_core.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\..\Libraries\STM32_USB_HOST_Library\Core\src\usbh_hcs.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\..\Libraries\STM32_USB_HOST_Library\Core\src\usbh_ioreq.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\..\Libraries\STM32_USB_HOST_Library\Core\src\usbh_stdreq.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\..\Libraries\STM32_USB_OTG_Driver\src\usb_core.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\..\Libraries\STM32_USB_OTG_Driver\src\usb_dcd.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\..\Libraries\STM32_USB_OTG_Driver\src\usb_dcd_int.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\..\Libraries\STM32_USB_OTG_Driver\src\usb_hcd.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\..\Libraries\STM32_USB_OTG_Driver\src\usb_hcd_int.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\..\Libraries\STemWinLibrary522_4x9i\Config\GUIConf.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\..\Libraries\STemWinLibrary522_4x9i\Config\GUIDRV_stm32f429i_discovery.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\..\Libraries\STemWinLibrary522_4x9i\OS\GUI_X_FreeRTOS.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\Core\Demo\Res\common_res.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\Core\Demo\demo_clock.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\Core\Demo\demo_cpu.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\Core\Demo\demo_game.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\Core\Demo\demo_image.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\Core\Demo\demo_menu.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\Core\Demo\demo_startup.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\Core\Demo\demo_systeminfo.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\Core\Demo\demo_video.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\Core\Devices\STM32F4xx\system_stm32f4xx.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\Core\Lib\cpu_utils.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\Core\Lib\file_utils.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\Core\Lib\str_utils.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\Core\Lib\time_utils.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\Core\Test_Program\test_program.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\Core\Test_Program\usbd_desc.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\Core\Test_Program\usbd_usr.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\Core\User\bsp.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\Core\User\fatfs_drv.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\Core\User\main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\Core\User\rtc.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\Core\User\stm32xxx_it.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\Core\User\usb_bsp.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\Core\User\usbh_usr.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="STM32F429ZI_FLASH.ld" />
+		<Unit filename="startup_stm32f429_439xx.S">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\..\Utilities\STM32F429I-Discovery\stm32f429i_discovery.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\..\Utilities\STM32F429I-Discovery\stm32f429i_discovery_ioe.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\..\Utilities\STM32F429I-Discovery\stm32f429i_discovery_l3gd20.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\..\Utilities\STM32F429I-Discovery\stm32f429i_discovery_lcd.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\..\Utilities\STM32F429I-Discovery\stm32f429i_discovery_sdram.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\..\Utilities\Third_Party\FreeRTOS\Source\croutine.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\..\Utilities\Third_Party\FreeRTOS\Source\list.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\..\Utilities\Third_Party\FreeRTOS\Source\portable\GCC\ARM_CM4F\port_cm4.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\..\Utilities\Third_Party\FreeRTOS\Source\portable\MemMang\heap_2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\..\Utilities\Third_Party\FreeRTOS\Source\queue.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\..\Utilities\Third_Party\FreeRTOS\Source\tasks.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\..\Utilities\Third_Party\FreeRTOS\Source\timers.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\..\Utilities\Third_Party\fat_fs\src\ff.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\..\Utilities\Third_Party\fat_fs\src\option\syscall.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<debugger>
+				<target_debugging_settings target="STM32F429I-Discovery_Demo" active_interface="ST-link">
+					<debug_interface interface_id="ST-link" ip_address="localhost" ip_port="4242" path="${EMBLOCKS}\share\contrib" executable="STLinkGDB.exe" description="" dont_start_server="false" backoff_time="1000" options="0" active_family="STMicroelectronics">
+						<family_options family_id="STMicroelectronics">
+							<option opt_id="ID_JTAG_SWD" opt_value="swd" />
+							<option opt_id="ID_VECTOR_START" opt_value="0x08000000" />
+							<option opt_id="ID_RESET_TYPE" opt_value="System" />
+							<option opt_id="ID_LOAD_PROGRAM" opt_value="1" />
+							<option opt_id="ID_SEMIHOST_CHECK" opt_value="0" />
+							<option opt_id="ID_RAM_EXEC" opt_value="0" />
+							<option opt_id="ID_VEC_TABLE" opt_value="1" />
+							<option opt_id="ID_VERBOSE_LEVEL" opt_value="3" />
+						</family_options>
+					</debug_interface>
+				</target_debugging_settings>
+			</debugger>
+			<envvars />
+			<DoxyBlocks>
+				<comment_style block="0" line="0" />
+				<doxyfile_project />
+				<doxyfile_build />
+				<doxyfile_warnings />
+				<doxyfile_output />
+				<doxyfile_dot />
+				<general />
+			</DoxyBlocks>
+		</Extensions>
+	</Project>
+</EmBlocks_project_file>
